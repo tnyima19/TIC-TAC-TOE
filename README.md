@@ -7,7 +7,7 @@ TICTAC is a terminal game where you can play tictac with a friend.
 ---
 
 ## TicTac
-## use this to run in the terminal (g++ -std=c++17 tictactoe.cc -o run)
+## use this to run in the terminal (g++ -std=c++17 ticTacToe.cc -o run)
 ## Then press (./run)
 
 ### User Stories
